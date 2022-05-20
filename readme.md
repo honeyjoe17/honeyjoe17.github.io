@@ -17,7 +17,7 @@
 <!-- ![imag1](image/1.png)  -->
 
 <div align=right>
-<img src="image/1.png" width = 30%/>
+<img src="https://github.com/honeyjoe17/honeyjoe17.github.io/raw/master/image/1.png" width = 30%/>
 </div>
 
 
