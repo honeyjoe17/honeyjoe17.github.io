@@ -14,11 +14,11 @@
 
 <!-- <div align=left> -->
 
-<!-- ![imag1](image/1.png)  -->
+![imag1](image/1.png) 
 
-<div align=right>
+<!-- <div align=right>
 <img src="https://github.com/honeyjoe17/honeyjoe17.github.io/raw/master/image/1.png" width = 30%/>
-</div>
+</div> -->
 
 
 
