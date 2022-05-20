@@ -9,15 +9,15 @@
 <!-- <div align=right> -->
 
 
-<b></font><font color=#426ab3 size=6 >乔浩铭/Haoming Qiao</font> </b>
+<b></font><font color=#426ab3 size=10 >HoneyJoe</font> </b>
 
-<img src="image/id1.jpg" width = 20% height = 20% div align=right />
+<img src="image/1.png" width = 20% height = 20% div align=right />
 
 <div align=left>
 
 <!-- # 乔浩铭/Haoming Qiao
 ## 职位 -->
-> 联系方式: 13994149620
+<!-- > 联系方式: 13994149620
 
 ### 关于我
 /* 列举一下个人优势和特点 */
@@ -29,7 +29,7 @@
 /* 学校和专业等信息 */
 
 ### 技术经历
-/* 不要单纯列出一堆技术名词，而是明确自己做过的事情，这样面试官比较容易对我的技术有个初步判断 */
+/* 不要单纯列出一堆技术名词，而是明确自己做过的事情，这样面试官比较容易对我的技术有个初步判断 */ -->
 
 
 
