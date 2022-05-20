@@ -25,7 +25,5 @@
 
 
 <div align=right>
-
 [Special thanks: cy3486](http://cy3486.github.io)
-
 </div>
