@@ -13,6 +13,7 @@
 <img src="image/1.png" width = 20% height = 20% div align=right /> -->
 
 
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 
 ![imag1](image/1.png) 
 
