@@ -1,27 +1,15 @@
 # Welcome to HoneyJoe's Homepage!  
-<!-- 
-<div align=center> -->
-
-
 
 
 <div align=right>
 
-<!-- 
-<b></font><font color=#426ab3 size=10 >HoneyJoe</font> </b>
-
-<img src="image/1.png" width = 20% height = 20% div align=right /> -->
-
-
-使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 
 <!-- ![imag1](image/1.png)  -->
 
-<img src="image/1.png" width="50%">
+<img src="image/1.png" width="35%">
 
-<!-- <div align=right>
-<img src="https://github.com/honeyjoe17/honeyjoe17.github.io/raw/master/image/1.png" width = 30%/>
-</div> -->
+
+</div>
 
 
 
