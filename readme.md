@@ -16,6 +16,8 @@
 
 ![imag1](image/1.png) 
 
+<img src="image/1.png" width="50%">
+
 <!-- <div align=right>
 <img src="https://github.com/honeyjoe17/honeyjoe17.github.io/raw/master/image/1.png" width = 30%/>
 </div> -->
@@ -24,6 +26,5 @@
 
 
 
-<div align=right>
+
 [Special thanks: cy3486](http://cy3486.github.io)
-</div>
