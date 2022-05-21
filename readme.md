@@ -5,7 +5,7 @@
 
 
 
-<!-- <div align=right> -->
+<div align=right>
 
 <!-- 
 <b></font><font color=#426ab3 size=10 >HoneyJoe</font> </b>
@@ -15,7 +15,7 @@
 
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 
-![imag1](image/1.png) 
+<!-- ![imag1](image/1.png)  -->
 
 <img src="image/1.png" width="50%">
 
