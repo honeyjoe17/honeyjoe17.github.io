@@ -29,7 +29,7 @@
         <div id="container1">
             <div id="No1" style="height:px;width:px;float:left;">
                 <div id="header1" style="background-color:;">
-                    <h1 style="margin-top:0;"><b>好物推荐:</b></h1>
+                    <h1 style="margin-top:0;">好物推荐:</h1>
                 </div>
             </div>
         </div>
