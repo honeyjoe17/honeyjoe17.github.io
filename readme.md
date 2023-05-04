@@ -15,7 +15,7 @@
 <b>个人主页用来记录生活</b><br>
 <b>喜欢研究新奇好玩的电子产品</b><br>
 <b>极客精神永世长存</b><br>
-<b>honeyjoe17@163.com</div>
+<b>honeyjoe17@163.com</b><br></div>
  
 <div id="content" style="height:150px;width:150px;float:right;">
 <div align=right>
