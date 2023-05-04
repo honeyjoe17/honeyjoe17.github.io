@@ -4,12 +4,12 @@
             <title>HoneyJoe</title> 
     </head>
     <body>
-        <div id="container">
+        <div id="container0">
             <div id="footer" style="background-color:#afb4db;clear:both;text-align:center;">
                 ——————————————————————————————————————
             </div>
-            <div id="menu" style="height:px;width:px;float:left;">
-                <div id="header" style="background-color:;">
+            <div id="No0" style="height:px;width:px;float:left;">
+                <div id="header0" style="background-color:;">
                     <h1 style="margin-bottom:0;">但行好事，莫问前程。</h1>
                 </div>
                 <b>研三在读即将毕业</b><br>
@@ -26,8 +26,12 @@
                 ——————————————————————————————————————
             </div>
         </div>
-        <div id="No1" style="background-color:;">
-            <h1 style="margin-top:0;"><b>好物推荐:</b></h1>
+        <div id="container1">
+            <div id="No1" style="height:px;width:px;float:left;">
+                <div id="header1" style="background-color:;">
+                    <h1 style="margin-top:0;"><b>好物推荐:</b></h1>
+                </div>
+            </div>
         </div>
     </body>
 </html>
