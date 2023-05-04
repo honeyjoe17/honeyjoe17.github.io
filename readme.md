@@ -5,8 +5,7 @@
     </head>
     <body>
         <div id="container0">
-            <div id="footer" style="background-color:#afb4db;clear:both;text-align:center;">
-                ——————————————————————————————————————
+            <div id="footer" style="background-color:#afb4db;height:50px">
             </div>
             <div id="No0" style="height:px;width:px;float:left;">
                 <div id="header0" style="background-color:;">
@@ -32,6 +31,10 @@
                     <h1 style="margin-top:0;">好物推荐:</h1>
                 </div>
             </div>
+        </div>
+        <div class="back-to-top" style="display:block;">
+            <i class="fa fa-arrow-up">
+            </i>
         </div>
     </body>
 </html>
