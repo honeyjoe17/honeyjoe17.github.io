@@ -15,12 +15,11 @@
                 <b>研三在读即将毕业</b><br>
                 <b>个人主页用来记录生活</b><br>
                 <b>喜欢研究新奇好玩的东西</b><br>
-                <!-- <b>极客精神永世长存</b><br> -->
                 <b>honeyjoe17@163.com</b><br>
             </div>
             <div id="content" style="height:150px;width:150px;float:right;">
                 <div align=right>
-                    <img src="image/joe.jpg" width="100%">
+                    <img src="image/joe.jpg" width="100%" border-radius="80%">
                 </div>
             </div>
             <div id="footer" style="background-color:#afb4db;clear:both;text-align:center;">
