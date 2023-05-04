@@ -6,7 +6,7 @@
     <body>
         <div id="container">
             <div id="footer" style="background-color:#afb4db;clear:both;text-align:center;">
-                ———————————————————————————————————————
+                ——————————————————————————————————————
             </div>
             <div id="menu" style="height:px;width:px;float:left;">
                 <div id="header" style="background-color:;">
@@ -24,11 +24,11 @@
                 </div>
             </div>
             <div id="footer" style="background-color:#afb4db;clear:both;text-align:center;">
-                ———————————————————————————————————————
+                ——————————————————————————————————————
             </div>
         </div>
         <div id="No1" style="background-color:;">
-            <h1 style="margin-bottom:0;"><b>好物推荐:</b></h1>
+            <h1 style="margin-top:0;"><b>好物推荐:</b></h1>
         </div>
     </body>
 </html>
