@@ -1,11 +1,11 @@
 <div align=center>
 
-<img src="image/joe.jpg" width="10%"> Welcome to HoneyJoe's Homepage!
+<img src="image/joe.jpg" width="20%">
 
 </div>
 
-<!-- 
-# Welcome to HoneyJoe's Homepage!   -->
+
+# Welcome to HoneyJoe's Homepage!  
 
 
 
