@@ -11,7 +11,7 @@
 <div id="header" style="background-color:;">
 <h1 style="margin-bottom:0;">Nansnzc</h1></div>
  
-<div id="menu" style="background-color:#EEEEEE;height:200px;width:600px;float:left;">
+<div id="menu" style="background-color:#EEEEEE;height:200px;width:px;float:left;">
 <b>test</b><br>
 test<br>
 test<br>
