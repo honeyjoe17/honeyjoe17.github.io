@@ -5,6 +5,9 @@
     </head>
     <body>
         <div id="container">
+            <div id="footer" style="background-color:#afb4db;clear:both;text-align:center;">
+                —————————————————————————————————
+            </div>
             <div id="menu" style="height:px;width:px;float:left;">
                 <div id="header" style="background-color:;">
                     <h1 style="margin-bottom:0;">但行好事，莫问前程。</h1>
@@ -21,7 +24,7 @@
                 </div>
             </div>
             <div id="footer" style="background-color:#afb4db;clear:both;text-align:center;">
-                ———————————
+                —————————————————————————————————
             </div>
         </div>
         <div id="No1" style="background-color:;">
