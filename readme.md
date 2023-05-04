@@ -1,20 +1,11 @@
-# Welcome to HoneyJoe's Homepage!  
+<div align=center>
 
-## test in 2023/4/18
-
-
-<div align=right>
-
-
-<!-- ![imag1](image/1.png)  -->
-
-<img src="image/1.png" width="35%">
-
+<img src="image/joe.jpg" width="10%">
 
 </div>
 
-
-
+<!-- 
+# Welcome to HoneyJoe's Homepage!   -->
 
 
 
