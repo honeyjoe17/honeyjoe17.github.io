@@ -32,10 +32,6 @@
                 </div>
             </div>
         </div>
-        <div class="back-to-top" style="display:block;">
-            <i class="fa fa-arrow-up">
-            </i>
-        </div>
     </body>
 </html>
 
