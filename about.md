@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 关于我 
+title: 关于我
 ---
 
-一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
+<!-- 一个工作6年的 iOS SDK 开发者，在一家游戏公司做SDK开发和维护。
 
 除了iOS技术，我还一直维护着这个博客，懂一些前端的基础知识。
 
@@ -13,12 +13,12 @@ title: 关于我
 
 这个博客是我们大家的，目前已经有很大一部分人在使用我的博客模板了，我也很高兴大家使用我的模板。
 
-如果你想搭建一个跟我一样的博客，可以看我的 
+如果你想搭建一个跟我一样的博客，可以看我的
 <a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
 教程
 
 
-有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~ 
+有关于博客主题的建议和意见都可以提给我，让我们一起来打造一个精美的主题吧~
 
 博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
 
@@ -29,5 +29,4 @@ title: 关于我
 
 博客模板会一直持续更新，请持续关注我，谢谢~
 
-{% include comments.html %}
-
+{% include comments.html %} -->
