@@ -18,10 +18,11 @@ title: 技术支持
 
 <h3> 感谢您的打赏 </h3>
 
-<figure class="half">
-    <img src="/images/payimg/alipayimg.jpg" width=300>
-    <img src="/images/payimg/weipayimg.jpg" width=300>
-</figure>
+<center class="third">
+    <img src="/images/payimg/alipayimg.jpg" height=300>
+    <img src="/images/payimg/empty.jpg" height=300>
+    <img src="/images/payimg/weipayimg.jpg" height=300>
+</center>
 
 
 <h3> 如何联系到我 </h3>
